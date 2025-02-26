@@ -1,0 +1,7 @@
+C:\Users\diak\Desktop\feladatok\kb\02_26\PowerAndTests\Power\bin\Debug\Power.exe.config
+C:\Users\diak\Desktop\feladatok\kb\02_26\PowerAndTests\Power\bin\Debug\Power.exe
+C:\Users\diak\Desktop\feladatok\kb\02_26\PowerAndTests\Power\bin\Debug\Power.pdb
+C:\Users\diak\Desktop\feladatok\kb\02_26\PowerAndTests\Power\obj\Debug\Power.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\feladatok\kb\02_26\PowerAndTests\Power\obj\Debug\Power.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\feladatok\kb\02_26\PowerAndTests\Power\obj\Debug\Power.exe
+C:\Users\diak\Desktop\feladatok\kb\02_26\PowerAndTests\Power\obj\Debug\Power.pdb
